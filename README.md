@@ -18,7 +18,7 @@ Para evitar problemas con dependencias o recursos, se recomienda ejecutar el pro
 
 ### Ejecución desde la Terminal
 
-1. Abre en la terminal o consola de comandos abre la dirección en donde se encuentra el archivo llamado Lenguajes-1.0-SNAPSHOT.jar
+1. Abre en la terminal o consola de comandos abre la dirección en donde se encuentra el archivo llamado Lenguajes-1.0-SNAPSHOT.jar ubicado en la carpeta target
 2.  Por último, ejecuta la aplicación utilizando el siguiente comando:
 
 ``` bash
